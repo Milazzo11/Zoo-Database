@@ -1,0 +1,17 @@
+.label {
+    -fx-font-family: "arial";
+    -fx-font-size: 15px;
+}
+
+#extra {
+    -fx-background-radius: 5em;
+    -fx-min-width: 40px;
+    -fx-min-height: 25px;
+    -fx-max-width: 40px;
+    -fx-max-height: 25px;
+}
+
+#display {
+       -fx-control-inner-background: #f2f2f2;
+       -fx-text-box-border: #b2b2b2;
+}
